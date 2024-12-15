@@ -37,12 +37,6 @@ This project involves performing sentiment analysis on a dataset of movie review
   - Seaborn
   - XGBoost
 
-## Installation
-Clone the repository and install the required libraries:
-```bash
-pip install -r requirements.txt
-```
-
 ## How to Run
 1. Preprocess the dataset using the provided preprocessing script.
 2. Train the models by running the training script.
@@ -59,7 +53,7 @@ The results demonstrate the effectiveness of ensemble methods like Random Forest
 For queries or collaboration, feel free to contact:
 **Yogendra**  
 Bioengineering Student, IIT Jodhpur  
-Email: [your_email@example.com]
+Email: ykyogendra955@gmail.com
 
 ---
 *"This project represents a step forward in leveraging machine learning for sentiment analysis, showcasing the integration of various algorithms and NLP techniques."*
